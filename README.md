@@ -1,6 +1,6 @@
 # Docbox :blue_book:
 
-[![Circle CI](https://circleci.com/gh/mapbox/docbox.svg?style=svg)](https://circleci.com/gh/mapbox/docbox)
+**This is a FORK from [mapbox/docbox](https://github.com/mapbox/docbox)**. It only adds some [modifications](https://github.com/cubodehelio/docbox/blob/master/CHANGELOG.md) to the build system so visit the original repo instead.
 
 **Docbox is an open source version of [Mapbox](https://mapbox.com/)'s REST API documentation system.** It takes structured Markdown files and generates a friendly two-column layout with navigation, permalinks, and examples. The documentation source files that Docbox uses are friendly for documentation authors and free of presentational code: it's Markdown.
 
